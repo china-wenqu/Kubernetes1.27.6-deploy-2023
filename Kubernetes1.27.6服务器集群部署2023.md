@@ -2,6 +2,16 @@
 
 ## Kubernetes服务器集群部署
 
+### 视频教程地址
+https://www.bilibili.com/video/BV1Au4y1W7yA/
+### 文档获取地址
+
+CSDN：
+https://blog.csdn.net/chinaxsw/article/details/133960706
+
+github:
+https://github.com/china-wenqu/Kubernetes1.27.6-deploy-2023
+
 ### 1、节点配置
 
 | 主机名                   | IP            | 角色    | 系统                  | CPU/内存 | 磁盘 |
